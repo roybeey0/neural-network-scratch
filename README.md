@@ -261,12 +261,12 @@ $$\frac{\partial \mathcal{L}}{\partial W^{[l]}} = \frac{1}{m} A^{[l-1]T} \cdot \
 Portfolio: [roybeey.com](https://roybeey.com)
 
 **Other Projects**
-- 🤖 Trading Bot (OKX API + strategy backtesting)
-- 🧬 Genetic Algorithm Optimizer
-- 💬 CodeT5 Code Generator
-- 📊 Crypto Market EDA
-- ⛓️ Python Blockchain + Wallet Analytics
-- 🐋 On-chain Whale Tracker
+- Trading Bot (OKX API + strategy backtesting)
+- Genetic Algorithm Optimizer
+- CodeT5 Code Generator
+- Crypto Market EDA
+- Python Blockchain + Wallet Analytics
+- On-chain Whale Tracker
 
 ---
 
