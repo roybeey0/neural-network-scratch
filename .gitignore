@@ -1,0 +1,5 @@
+# .gitignore
+*.npz
+*.pkl
+__pycache__/
+*.pyc

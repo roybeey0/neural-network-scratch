@@ -1,0 +1,4 @@
+numpy>=1.23.0
+matplotlib>=3.6.0
+# Optional — only used as MNIST download fallback if Yann LeCun's server is down
+scikit-learn>=1.1.0
